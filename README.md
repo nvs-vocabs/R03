@@ -1,2 +1,9 @@
 # R03
-Argo parameter codes
+Argo parameter codes - Terms describing individual measured phenomena, used to mark up sets of data in Argo NetCDF arrays.
+
+This vocabulary is available from:
+
+* [NERC Vocabulary Server](http://vocab.nerc.ac.uk/collection/R03/current/)
+
+* [BODC search interface](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/R03/)
+
