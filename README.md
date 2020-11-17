@@ -7,4 +7,4 @@ This vocabulary is available from:
 
 * [BODC search interface](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/R03/)
 
-Comments, requests and suggestions can be made using [regular issues](https://github.com/nvs-vocabs/L20/issues/new) in this repository or by email to vocab.services(-at-bodc.ac.uk).
+Comments, requests and suggestions can be made using [regular issues](https://github.com/nvs-vocabs/R03/issues/new) in this repository or by email to vocab.services(-at-bodc.ac.uk).
